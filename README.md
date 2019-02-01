@@ -1,2 +1,2 @@
 # Essential-Algorithms
-Essential Algorithms: A Practical Approach To Computer Algorithms by Rod Stephns. 
+Essential Algorithms: A Practical Approach To Computer Algorithms by Rod Stephens. 
